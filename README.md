@@ -6,7 +6,7 @@
 - pkg install python
 - pip install requests
 - pkg install git
-- git clone https://github.com/AdliXSec/Shell-Finder
+- git clone https://github.com/DX-NAHID/SHELL-FINDER
 - cd Shell-Finder
 - nano web.txt (imput your website list)
 - python SFind.py web.txt
