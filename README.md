@@ -7,7 +7,7 @@
 - pip install requests
 - pkg install git
 - git clone https://github.com/DX-NAHID/SHELL-FINDER
-- cd Shell-Finder
+- cd SHELL-FINDER
 - nano web.txt (imput your website list)
 - python SFind.py web.txt
 
